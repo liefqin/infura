@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>infura-redis</module>
+        <module>infura-cache</module>
         <module>infura-nacos</module>
         <module>infura-file</module>
     </modules>
