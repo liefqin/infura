@@ -12,6 +12,7 @@
         <module>infura-cache</module>
         <module>infura-nacos</module>
         <module>infura-file</module>
+        <module>infura-flow</module>
     </modules>
 
     <properties>
